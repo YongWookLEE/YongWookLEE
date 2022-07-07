@@ -1,5 +1,5 @@
  # 💫About Me :
-백엔드 주니어 개발자 이용욱 입니다 :D &nbsp; [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYongWookLEE&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+백엔드 주니어 개발자 이용욱 입니다 :D <br> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYongWookLEE&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <br>
 
@@ -34,6 +34,7 @@
 # 📊GitHub Stats :
 
 ![](https://github-readme-stats.vercel.app/api?username=YongWooKLEE&theme=react&hide_border=true&include_all_commits=true&count_private=false) &nbsp;  &nbsp;  &nbsp;  &nbsp; 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YongWooKLEE&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=CJH0120&theme=discord&no-frame=false&no-bg=false&margin-w=4) -->
